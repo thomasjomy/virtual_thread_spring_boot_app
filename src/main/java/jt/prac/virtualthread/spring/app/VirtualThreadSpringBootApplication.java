@@ -1,13 +1,13 @@
-package jt.prac.virtulthread.sprinbootapp;
+package jt.prac.virtualthread.spring.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class VirtulthreadsprinbootappApplication {
+public class VirtualThreadSpringBootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(VirtulthreadsprinbootappApplication.class, args);
+		SpringApplication.run(VirtualThreadSpringBootApplication.class, args);
 	}
 
 }
